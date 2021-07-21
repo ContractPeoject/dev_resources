@@ -1,0 +1,15 @@
+# FOR UAT
+192.168.1.202 app.aicontract.pandalaw.cn
+192.168.1.202 platform.aicontract.pandalaw.cn
+192.168.1.202 enterprise.aicontract.pandalaw.cn
+192.168.1.202 firm.aicontract.pandalaw.cn
+192.168.1.202 redis.uat.pandalaw.cn
+192.168.1.202 mysql.uat.pandalaw.cn
+
+# FOR DEV & LOCAL TEST
+192.168.1.201 app.aicontract.pandalaw.cn
+192.168.1.201 platform.aicontract.pandalaw.cn
+192.168.1.201 enterprise.aicontract.pandalaw.cn
+192.168.1.201 firm.aicontract.pandalaw.cn
+192.168.1.201 redis.uat.pandalaw.cn
+192.168.1.201 mysql.uat.pandalaw.cn
