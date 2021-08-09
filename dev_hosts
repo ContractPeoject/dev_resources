@@ -5,8 +5,8 @@
 192.168.1.202 firm.aicontract.uat.pandalaw.cn
 192.168.1.202 redis.uat.pandalaw.cn
 192.168.1.202 mysql.uat.pandalaw.cn
-192.168.1.200 management.rabbitmq.uat.pandalaw.cn
-192.168.1.200 rabbitmq.uat.pandalaw.cn
+192.168.1.202 management.rabbitmq.uat.pandalaw.cn
+192.168.1.202 rabbitmq.uat.pandalaw.cn
 
 # FOR DEV & LOCAL TEST
 192.168.1.201 app.aicontract.dev.pandalaw.cn
@@ -15,5 +15,8 @@
 192.168.1.201 firm.aicontract.dev.pandalaw.cn
 192.168.1.201 redis.dev.pandalaw.cn
 192.168.1.201 mysql.dev.pandalaw.cn
-192.168.1.200 management.rabbitmq.dev.pandalaw.cn
-192.168.1.200 rabbitmq.dev.pandalaw.cn
+192.168.1.201 management.rabbitmq.dev.pandalaw.cn
+192.168.1.201 rabbitmq.dev.pandalaw.cn
+
+# Platform
+192.168.1.200 portainer.internal
