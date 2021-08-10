@@ -7,11 +7,11 @@
 192.168.1.202 mysql.uat.pandalaw.cn
 192.168.1.202 management.rabbitmq.uat.pandalaw.cn
 192.168.1.202 rabbitmq.uat.pandalaw.cn
-192.168.1.202 mysql.uat.internal
-192.168.1.202 redis.uat.internal
-192.168.1.202 rabbitmq.uat.internal
-192.168.1.202 management.rabbitmq.uat.internal
-192.168.1.202 solr.uat.internal
+192.168.1.202 mysql_uat
+192.168.1.202 redis_uat
+192.168.1.202 rabbitmq_uat
+192.168.1.202 management_rabbitmq_uat
+192.168.1.202 solr_uat
 
 # FOR DEV & LOCAL TEST
 192.168.1.201 app.aicontract.dev.pandalaw.cn
@@ -22,11 +22,11 @@
 192.168.1.201 mysql.dev.pandalaw.cn
 192.168.1.201 management.rabbitmq.dev.pandalaw.cn
 192.168.1.201 rabbitmq.dev.pandalaw.cn
-192.168.1.201 mysql.dev.internal
-192.168.1.201 redis.dev.internal
-192.168.1.201 rabbitmq.dev.internal
-192.168.1.201 management.rabbitmq.dev.internal
-192.168.1.201 solr.dev.internal
+192.168.1.201 mysql_dev
+192.168.1.201 redis_dev
+192.168.1.201 rabbitmq_dev
+192.168.1.201 management_rabbitmq_dev
+192.168.1.201 solr_dev
 
 # Platform
-192.168.1.200 portainer.internal
+192.168.1.200 portaine_dev
