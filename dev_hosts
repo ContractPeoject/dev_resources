@@ -20,6 +20,7 @@
 192.168.1.201 enterprise.aicontract.dev.pandalaw.cn
 192.168.1.201 firm.aicontract.dev.pandalaw.cn
 192.168.1.201 weixin.aicontract.dev.pandalaw.cn
+192.168.1.201 pcweb.aicontract.dev.pandalaw.cn
 192.168.1.201 redis.dev.pandalaw.cn
 192.168.1.201 mysql.dev.pandalaw.cn
 192.168.1.201 management.rabbitmq.dev.pandalaw.cn
