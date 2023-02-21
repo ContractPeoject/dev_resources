@@ -1,9 +1,9 @@
 # FOR UAT
-172.18.80.253 app.aicontract.uat.pandalaw.cn
-172.18.80.253 platform.aicontract.uat.pandalaw.cn
-172.18.80.253 enterprise.aicontract.uat.pandalaw.cn
-172.18.80.253 firm.aicontract.uat.pandalaw.cn
-172.18.80.253 weixin.aicontract.uat.pandalaw.cn
+172.18.80.253 app.uat.aicontract.pandalaw.cn
+172.18.80.253 platform.uat.aicontract.pandalaw.cn
+172.18.80.253 enterprise.uat.aicontract.pandalaw.cn
+172.18.80.253 firm.uat.aicontract.pandalaw.cn
+172.18.80.253 weixin.uat.aicontract.pandalaw.cn
 172.18.80.253 redis.uat.pandalaw.cn
 172.18.80.253 mysql.uat.pandalaw.cn
 172.18.80.253 management.rabbitmq.uat.pandalaw.cn
