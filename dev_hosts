@@ -15,6 +15,7 @@
 172.18.80.253 solr_uat
 
 # FOR DEV & LOCAL TEST
+172.18.80.253 weixin.dev.ailawyer.pandalaw.cn
 172.18.80.253 app.dev.aicontract.pandalaw.cn
 172.18.80.253 platform.dev.aicontract.pandalaw.cn
 172.18.80.253 enterprise.dev.aicontract.pandalaw.cn
