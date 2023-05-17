@@ -1,9 +1,5 @@
 # FOR UAT
-172.18.80.253 app.uat.aicontract.pandalaw.cn
 172.18.80.253 platform.uat.aicontract.pandalaw.cn
-172.18.80.253 enterprise.uat.aicontract.pandalaw.cn
-172.18.80.253 firm.uat.aicontract.pandalaw.cn
-172.18.80.253 weixin.uat.aicontract.pandalaw.cn
 172.18.80.253 redis.uat.pandalaw.cn
 172.18.80.253 mysql.uat.pandalaw.cn
 172.18.80.253 management.rabbitmq.uat.pandalaw.cn
@@ -13,12 +9,12 @@
 172.18.80.253 rabbitmq_uat
 172.18.80.253 management_rabbitmq_uat
 172.18.80.253 solr_uat
+172.18.80.253 ftp_uat
 
 # FOR DEV & LOCAL TEST
 172.18.80.253 weixin.dev.ailawyer.pandalaw.cn
 ###################
 172.18.80.253 plugin.dev.aicontract.pandalaw.cn
-172.18.80.253 app.dev.aicontract.pandalaw.cn
 172.18.80.253 platform.dev.aicontract.pandalaw.cn
 172.18.80.253 enterprise.dev.aicontract.pandalaw.cn
 172.18.80.253 firm.dev.aicontract.pandalaw.cn
