@@ -1,9 +1,8 @@
 # FOR UAT
-172.18.80.253 platform.uat.aicontract.pandalaw.cn
-172.18.80.253 redis.uat.pandalaw.cn
-172.18.80.253 mysql.uat.pandalaw.cn
-172.18.80.253 management.rabbitmq.uat.pandalaw.cn
-172.18.80.253 rabbitmq.uat.pandalaw.cn
+172.18.80.253 platform.uat.aicontract.pdl.cn
+172.18.80.253 redis_uat
+172.18.80.253 mysql_uat
+172.18.80.253 rabbitmq_uat
 172.18.80.253 mysql_uat
 172.18.80.253 redis_uat
 172.18.80.253 rabbitmq_uat
@@ -14,16 +13,17 @@
 # FOR DEV & LOCAL TEST
 172.18.80.253 weixin.dev.ailawyer.pandalaw.cn
 ###################
-172.18.80.253 plugin.dev.aicontract.pandalaw.cn
-172.18.80.253 platform.dev.aicontract.pandalaw.cn
-172.18.80.253 enterprise.dev.aicontract.pandalaw.cn
-172.18.80.253 firm.dev.aicontract.pandalaw.cn
-172.18.80.253 weixin.dev.aicontract.pandalaw.cn
-172.18.80.253 pcweb.dev.aicontract.pandalaw.cn
-172.18.80.253 redis.dev.pandalaw.cn
-172.18.80.253 mysql.dev.pandalaw.cn
-172.18.80.253 management.rabbitmq.dev.pandalaw.cn
-172.18.80.253 rabbitmq.dev.pandalaw.cn
+172.18.80.253 mgr.dev.ailawyer.pdl.cn
+172.18.80.253 plugin.dev.aicontract.pdl.cn
+172.18.80.253 platform.dev.aicontract.pdl.cn
+172.18.80.253 enterprise.dev.aicontract.pdl.cn
+172.18.80.253 firm.dev.aicontract.pdl.cn
+172.18.80.253 weixin.dev.aicontract.pdl.cn
+172.18.80.253 pcweb.dev.aicontract.pdl.cn
+172.18.80.253 redis.dev.pdl.cn
+172.18.80.253 mysql.dev.pdl.cn
+172.18.80.253 management.rabbitmq.dev.pdl.cn
+172.18.80.253 rabbitmq.dev.pdl.cn
 172.18.80.253 mysql_dev
 172.18.80.253 redis_dev
 172.18.80.253 rabbitmq_dev
