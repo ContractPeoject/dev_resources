@@ -23,15 +23,17 @@
 172.18.80.253 pcweb.dev.aicontract.pandalaw.cn
 172.18.80.253 chat.dev.aicontract.pandalaw.cn
 ###################
-172.18.80.253 redis.dev.pdl.cn
-172.18.80.253 mysql.dev.pdl.cn
-172.18.80.253 management.rabbitmq.dev.pandalaw.cn
-172.18.80.253 rabbitmq.dev.pandalaw.cn
+172.18.80.253 pcweb.dev.aiplatform.pandalaw.cn
+###################
+#172.18.80.253 redis.dev.pdl.cn
+#172.18.80.253 mysql.dev.pdl.cn
+#172.18.80.253 management.rabbitmq.dev.pandalaw.cn
+#172.18.80.253 rabbitmq.dev.pandalaw.cn
 172.18.80.253 mysql_dev
 172.18.80.253 redis_dev
 172.18.80.253 rabbitmq_dev
 172.18.80.253 management_rabbitmq_dev
 172.18.80.253 solr_dev
 
-# Platform
+# docker swarm management
 172.18.80.253 portainer_dev
